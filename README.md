@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+# 🔭 I’m currently working on: OriginsPlus For Minecraft
+# 🌱 I’m currently learning: C#
+# 📫 How to reach me: Discord-ᐯᗩᑎTᕼᗩᑎY᙭ツ™#7777
+# 😄 Pronouns: He/Him
+# ⚡ Fun fact: My Favorite Games Are Minercaft And Valorant
+
 <!--
 **Vanthanyx/Vanthanyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
