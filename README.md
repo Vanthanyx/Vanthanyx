@@ -1,9 +1,9 @@
 ## Hi Everyone 👋
 
 
-### 🔭 I’m currently working on: OriginsPlus For Minecraft
-### 🌱 I’m currently learning: C#
-### 📫 How to reach me: Discord-ᐯᗩᑎTᕼᗩᑎY᙭ツ™#7777
+### 🔭 I’m currently working on: Stratos, A Mod For Minecraft
+### 🌱 I’m currently learning: Java
+### 📫 How to reach me: Discord - 𝕍𝕒𝕟𝕥𝕙𝕒𝕟𝕪𝕩ツ™#0478
 ### 😄 Pronouns: He/Him
 ### ⚡ Fun fact: My Favorite Games Are Minercaft And Valorant
 
