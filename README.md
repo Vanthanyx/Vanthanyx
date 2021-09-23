@@ -5,7 +5,7 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="NodeJs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="FireBase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40"/>
