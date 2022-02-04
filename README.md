@@ -2,7 +2,6 @@
 
 <h3 align="left">Contact:</h3>
 
-<a href="https://discordapp.com/users/716485063524745306" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Vanthanyx#0001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
