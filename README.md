@@ -9,4 +9,4 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> 
 <img src="https://img.shields.io/badge/MongoDB-03AC13?style=for-the-badge&logo=mongodb&logoColor=white">
 
- [Visitor Count](https://profile-counter.glitch.me/vanthanyx/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/vanthanyx/count.svg)
